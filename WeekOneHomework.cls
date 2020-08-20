@@ -41,7 +41,7 @@ public with sharing class WeekOneHomework {
         // a ; is how you tell the computer that you're done with a line of code.  Get used to typing lots and lots of semi-colons!!
 
     }
-
+//Good work Christine!
     public static void primitivesExercise() {
         //You do this part!
 
